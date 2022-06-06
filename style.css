@@ -371,7 +371,7 @@ a:hover {
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
-        /* color: #484848; */
+        color: #484848;
     }
     .nav-invert .site-navigation {
         left: 0;
